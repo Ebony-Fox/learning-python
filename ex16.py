@@ -1,3 +1,4 @@
+# imports the argv function from the sys (system) libary
 from sys import argv
 
 script, filename = argv
