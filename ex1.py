@@ -2,8 +2,9 @@ print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
 print("This is fun.")
-print('Yay! Printing.')
-print("I'd much ratehr you 'not'.")
+print("Yay! Printing.")
+print("I'd much rather you 'not'.")
 print('I "said" do not touch this.')
+print("Another line")
 
-#Each line of code prints a string
+# This comment is part of the study drills
