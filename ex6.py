@@ -14,13 +14,14 @@ print(f"I said: {x}")  # Display formatted string of a formatted string
 # Display formatted string containing formatted string
 print(f"I also said: '{y}")
 
-hilarious = False  # Variable with False boolean
-# String variable with empty value
+hilarious = False  # Boolean variable set to False
+# A string with a placeholder for formatting
 joke_evaluation = "Isn't that joke so funny?! {}"
 
-print(joke_evaluation.format(hilarious))  # Display
+# Display "joke_evaluation" string with hilarious variable formatted in
+print(joke_evaluation.format(hilarious))
 
-w = "This is the left side of..."
-e = "a string with a right side"
+w = "This is the left side of..."  # String assigned to vaiable w
+e = "a string with a right side"  # String assigned to variable e
 
-print(w + e)
+print(w + e)  # Concatenate and display strings w and e
